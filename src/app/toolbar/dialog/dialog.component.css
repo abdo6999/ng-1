@@ -1,0 +1,20 @@
+mat-form-field {
+  width: 100%;
+}
+
+mat-radio-group {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+mat-radio-button {
+  padding: 10px;
+}
+.price {
+  padding-top:15px ;
+}
+.save  {
+  position: relative;
+  top: 15px;
+  
+}
